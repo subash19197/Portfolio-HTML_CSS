@@ -8,6 +8,11 @@
 # Technologies used:
   - HTML
   - CSS
+# Installation and Usage:
+   * Clone the repository:
+     git clone 
+     https://github.com/subash19197/Portfolio-HTML_CSS
+   * Open index.html in browser  
 # Screenshots:
  1. Background Image:![Screenshot](images/Screenshot_20250209_183657.png)
     
