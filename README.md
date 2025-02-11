@@ -9,8 +9,9 @@
   - HTML
   - CSS
 # Screenshots:
- ![Screenshot](images/Screenshot_20250209_183657.png)
- ![Screenshot](images/Screenshot_20241225_112628.png)
+ 1. Background Image:![Screenshot](images/Screenshot_20250209_183657.png)
+    
+ 2. Portfolio Result:![Screenshot](images/Screenshot_20241225_112628.png)
 
 # Future Enhancements:
   - Add JavaScript animations
